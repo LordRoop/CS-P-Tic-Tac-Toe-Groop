@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Easily create command-line menus"
+name = "menu"
+optional = false
+python-versions = "*"
+version = "3.2.2"
+
+[metadata]
+content-hash = "c3d78b69b9ad48cf5d93a5a7a6e0f2c5276fdf1661c6f9d28806074cc613fefc"
+python-versions = "^3.8"
+
+[metadata.files]
+menu = [
+    {file = "Menu-3.2.2.tar.gz", hash = "sha256:8143eeec772937d4adc80b5a451f827da3dcdc9b2a1f850b4734e5d5e50d3dc4"},
+]
