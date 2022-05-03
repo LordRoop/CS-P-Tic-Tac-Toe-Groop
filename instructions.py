@@ -1,11 +1,12 @@
-def instructions1():           # code of different colors
+def instructions1():       
+  # code of different colors
   redfont= "\u001b[31m"   
   greenfont= "\u001b[32;1m"
   cyanfont= "\u001b[36m"
   resetfont=  "\u001b[0m"
   briblue= "\u001b[34;1m"
 
-
+  # Instructions
   print(greenfont, "\nHow to play Tic Tac Toe!:\n", resetfont)
   print(briblue, "A two player game that is fun for countless hours!\n", resetfont)
   print(greenfont, "Here are some rules:\n",resetfont)
